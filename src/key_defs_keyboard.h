@@ -224,5 +224,3 @@
 #define Key_RightShift (Key) { HID_KEYBOARD_RIGHT_SHIFT, KEY_FLAGS }
 #define Key_RightAlt (Key) { HID_KEYBOARD_RIGHT_ALT, KEY_FLAGS }
 #define Key_RightGui (Key) { HID_KEYBOARD_RIGHT_GUI, KEY_FLAGS }
-
-
